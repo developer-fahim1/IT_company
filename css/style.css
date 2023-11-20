@@ -1,0 +1,96 @@
+/* hero section  */
+#hero_section {
+    background-image: url('../assets/banner\ \(3\).png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/* navbar */
+.nav_logo {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.c_nav {
+    background-color: #132577 !important;
+}
+
+.c_nav_btn {
+    background-color: white !important;
+}
+
+.c_menu_items li a {
+    color: white;
+}
+
+.c_menu_items li a:hover {
+    color: rgb(246, 0, 0);
+}
+
+/* service swction */
+.first_card {
+    margin-top: -20px;
+}
+
+.c_tag {
+    font-family: poppins;
+    font-size: 20px;
+    font-weight: 400;
+    color: #132577;
+}
+
+/* our team */
+.icon_box {
+    margin: 15px 25px;
+}
+
+.c_icons {
+    color: #132577;
+    background: white;
+    border: 1px solid #132577;
+    border-radius: 50%;
+    font-size: 15px;
+    height: 15px;
+    width: 15px;
+    margin: 5px;
+    padding: 12px;
+    cursor: pointer;
+
+}
+
+.c_icons:hover {
+    color: white;
+    background: #132577;
+    border: 1px solid #132577;
+    border-radius: 50%;
+    font-size: 15px;
+    height: 15px;
+    width: 15px;
+    margin: 5px;
+    padding: 12px;
+    cursor: pointer;
+    transition: 1s;
+
+}
+
+/* footer start */
+
+footer {
+    background-color: #132577;
+    color: white;
+}
+
+.c_links a {
+    color: white;
+    text-decoration: none;
+    margin: 5px auto;
+}
+
+.first_links {
+    font-size: 18px;
+    font-family: poppins;
+    font-weight: 700;
+    color: #92989F !important;
+    margin: 10px 0px;
+}
